@@ -22,7 +22,7 @@
 ### genes = List of gene symbols for which scores have to be calculated
 ### method = Enter the method for computing the enrichment. Method could be either 'oddsratio' or 'likelihood'
 
-Result  =  JASMINE(data,genes,method =c('oddsratio','likelihood')) ## calling JASMINE 
+#Result  =  JASMINE(data,genes,method =c('oddsratio','likelihood')) ## calling JASMINE 
 
 
 
